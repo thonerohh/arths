@@ -181,4 +181,3 @@ def origami(object): # 1 array
     obj5.append(sub4)
 
   return obj4,obj2,obj1,obj3,obj5
-
